@@ -237,6 +237,7 @@ footer p {
         background: linear-gradient(180deg, #e6dacf 120%, white 20%);
         background-repeat: no-repeat;
         height: 56rem;
+        width: 100%;
     }
 
     #nd {
@@ -263,6 +264,7 @@ footer p {
         width: 15rem;
         position: relative;
         top: 4rem;
+        left: -1.7rem;
     }
 
     #twoP {
@@ -270,18 +272,24 @@ footer p {
         position: relative;
         top: 5rem;
         padding-left: 0;
+        left: -1.7rem;
     }
 
     footer {
         position: relative;
         top: 8rem;
+        padding-left: 30px;
+    }
+
+    #footer {
+        padding-left: 0;
     }
 
     #copyright {
         position: absolute;
         text-align: center;
         top: 5rem;
-        left: 11rem;
+        left: 7.6rem;
         /* text-align: center; */
         padding-bottom: 1rem;
     }
@@ -309,7 +317,7 @@ footer p {
     }
 
     .hamburger {
-        left: 26rem;
+        left: 20rem;
         display: inline-block;
         position: absolute;
         z-index: 1;
