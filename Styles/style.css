@@ -78,7 +78,7 @@ main {
 
 #profile-card img {
     width: 10rem;
-    border-radius: 100%;
+    border-radius: 300px;
 }
 
 #profile-card hr {
@@ -203,6 +203,12 @@ footer ol li p {
 
 footer p {
     font-size: 12px;
+}
+
+#mail {
+    font-size: 12px;
+    font-weight: 100;
+    color: black;
 }
 
 #icons {
