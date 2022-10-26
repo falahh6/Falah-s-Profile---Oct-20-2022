@@ -67,7 +67,7 @@ main {
     padding: 3rem;
     align-items: center;
     height: 40rem;
-    background: linear-gradient(90deg, #e6dacf 30%, white 30%);
+    background: transparent;
 }
 
 #profile-card {
