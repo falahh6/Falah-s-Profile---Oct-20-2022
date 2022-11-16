@@ -257,6 +257,8 @@ footer p {
     }
 
     #heading span {
+        text-align: left;
+        display: block;
         font-size: 0.8rem;
     }
 
