@@ -24,6 +24,10 @@ body {
     scroll-behavior: smooth;
 }
 
+body.is-scroll {
+    overflow-y: hidden;
+}
+
 .overflow {
     overflow-y: hidden;
 }
@@ -442,6 +446,7 @@ textarea {
         height: 100%;
         display: flex;
         justify-content: center;
+        overflow-y: hidden;
     }
 
     #nav-menu.is-clicked {

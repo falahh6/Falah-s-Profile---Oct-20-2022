@@ -7,5 +7,5 @@ function menuItems() {
     hamburgerElement.classList.toggle('is-active');
     // document.body.style.display = 'none';
     navBar.classList.toggle('is-clicked');
-    hamburgerElement.style.scroll = 'no-scroll';
+    document.body.classList.toggle('is-scroll');
 }
