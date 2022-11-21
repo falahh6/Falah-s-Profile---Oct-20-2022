@@ -365,7 +365,7 @@ textarea {
 @media screen and (max-width: 767px) {
 
     body {
-        background: linear-gradient(180deg, #e6dacf 90%, white 20%);
+        background: transparent;
         background-repeat: no-repeat;
         height: 56rem;
         width: 100%;
@@ -467,7 +467,7 @@ textarea {
     }
 
     #contact-me {
-        height: 16rem;
+        height: 20rem;
     }
 
     #contact-inputs {
