@@ -9,3 +9,19 @@ function menuItems() {
     navBar.classList.toggle('is-clicked');
     document.body.classList.toggle('is-scroll');
 }
+
+
+let clickAboutMe = document.getElementById('About-me-link');
+clickAboutMe.addEventListener('click', () => {
+    navBar.classList.remove('is-clicked');
+    hamburgerElement.classList.remove('is-active');
+    document.body.classList.remove('is-scroll');
+})
+
+
+let clickContactMe = document.getElementById('contact-me-link');
+clickContactMe.addEventListener('click', () => {
+    navBar.classList.remove('is-clicked');
+    hamburgerElement.classList.remove('is-active');
+    document.body.classList.remove('is-scroll');
+})
