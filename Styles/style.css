@@ -251,7 +251,7 @@ footer p {
 }
 
 .here-i {
-    font-size: 1rem;
+    font-size: 0.8rem;
     margin-top: 0;
 }
 
@@ -503,6 +503,7 @@ textarea {
         background-color: white;
         padding: 0;
         margin-left: 0;
+        padding-left: 0.5rem;
     }
 
     #contact-inputs label {
