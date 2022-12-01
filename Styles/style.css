@@ -83,7 +83,7 @@ main {
     display: flex;
     width: 60%;
     justify-content: center;
-    margin: 5rem 15rem;
+    margin: 8rem 15rem;
 }
 
 #About-me img {
@@ -302,7 +302,7 @@ textarea {
 }
 
 #contact-inputs {
-    height: 20rem;
+    height: 25rem;
     background-color: white;
     width: 40rem;
     margin-left: 10rem;
@@ -487,7 +487,8 @@ textarea {
         width: 18rem;
     }
 
-    #mailme {
+    #mailme,
+    #name {
         height: 2rem;
     }
 
