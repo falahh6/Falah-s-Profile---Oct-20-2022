@@ -379,6 +379,8 @@ textarea {
 
     #nd {
         margin: 0;
+        position: relative;
+        left: -1rem;
     }
 
     #heading strong {
@@ -411,7 +413,7 @@ textarea {
         width: 15rem;
         position: relative;
         top: 4rem;
-        left: -1.7rem;
+        left: -3.2rem;
         margin-left: 0;
     }
 
@@ -420,7 +422,12 @@ textarea {
         position: relative;
         top: 5rem;
         padding-left: 0;
-        left: -1.7rem;
+        left: -2.4rem;
+    }
+
+    #twoP h1 {
+        position: relative;
+        left: -18px;
     }
 
     footer {
@@ -462,7 +469,7 @@ textarea {
     }
 
     .hamburger {
-        left: 20rem;
+        left: 19rem;
         display: inline-block;
         position: absolute;
         z-index: 1;
@@ -487,10 +494,18 @@ textarea {
 
     #contact-inputs h3 {
         width: 100%;
+        position: relative;
+        left: -1rem;
     }
 
     #contact-inputs form {
         width: 18rem;
+    }
+
+    #form-inputs {
+        width: 100%;
+        position: absolute;
+        left: 4rem;
     }
 
     #mailme,
