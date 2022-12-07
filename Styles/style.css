@@ -434,6 +434,7 @@ textarea {
         position: relative;
         top: 8rem;
         padding-left: 0;
+        width: 90%;
     }
 
     #copyright {
@@ -528,12 +529,6 @@ textarea {
     #contact-inputs button {
         margin-left: 0;
         width: 40%;
-    }
-
-    #footer-line {
-        position: relative;
-        top: 8.4rem;
-        width: 100%;
     }
 }
 
