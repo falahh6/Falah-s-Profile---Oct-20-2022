@@ -571,6 +571,6 @@ textarea {
 #nv-msg {
     font-size: 10px;
     font-weight: 300;
-    margin-left: 20px;
     color: lightcoral;
+    width: 100%;
 }
