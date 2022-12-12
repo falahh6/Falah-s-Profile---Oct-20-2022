@@ -557,3 +557,20 @@ textarea {
 #form-button span svg:active {
     transform: scale(0.9);
 }
+
+#resume-btn,
+#projects-btn {
+    color: white;
+}
+
+#resume-btn:hover,
+#projects-btn:hover {
+    color: black;
+}
+
+#nv-msg {
+    font-size: 10px;
+    font-weight: 300;
+    margin-left: 20px;
+    color: lightcoral;
+}
