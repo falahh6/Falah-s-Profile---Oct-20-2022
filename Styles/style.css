@@ -453,7 +453,7 @@ textarea {
         flex-direction: column;
         width: 100%;
         text-align: center;
-        transition: all 0.5s ease;
+        transition: all 0.8s ease;
         z-index: 1;
         background-color: #e6dacf;
         height: 100%;
