@@ -88,7 +88,7 @@ main {
 
 #About-me img {
     width: 10rem;
-    border-radius: 300px;
+    border-radius: 100%;
 }
 
 #About-me hr {
