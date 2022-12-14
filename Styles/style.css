@@ -143,7 +143,6 @@ main {
     flex-direction: column;
     padding-left: 2rem;
     justify-content: center;
-    /* align-items: center; */
 }
 
 #twoP h1 {
@@ -193,7 +192,7 @@ footer {
     justify-content: space-between;
     align-items: center;
     height: 4rem;
-    padding: 0 1.5rem;
+    padding: 0;
     margin: 0;
     background-color: white;
     position: inherit;
@@ -470,9 +469,9 @@ textarea {
     }
 
     .hamburger {
-        left: 19rem;
         display: inline-block;
         position: absolute;
+        right: 4rem;
         z-index: 1;
     }
 
