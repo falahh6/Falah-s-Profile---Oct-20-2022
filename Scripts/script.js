@@ -25,3 +25,14 @@ clickContactMe.addEventListener('click', () => {
     hamburgerElement.classList.remove('is-active');
     document.body.classList.remove('is-scroll');
 })
+
+
+
+// var nameInput = document.getElementById('name');
+// var emailInput = document.getElementById('mailme');
+// var messageBox = document.getElementById('Message');
+// var formElement = document.querySelector('form');
+
+// formElement.addEventListener('submit', (event) => {
+//     formElement.reset();
+// })
